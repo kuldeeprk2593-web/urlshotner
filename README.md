@@ -13,7 +13,7 @@
 ## Setup
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/kuldeeprk2593-web/urlshotner.git
 cd urlshotner
 
 composer update
