@@ -18,6 +18,8 @@ cd urlshotner
 
 composer update
 
+reanme example.env file
+
 .env to update:
     # DB_CONNECTION=mysql
     # DB_HOST=127.0.0.1
