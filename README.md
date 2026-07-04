@@ -17,6 +17,7 @@ git clone urlshotner-main
 cd urlshotner-main
 
 composer update
+rename example.env
 
 .env to update:
     # DB_CONNECTION=mysql
