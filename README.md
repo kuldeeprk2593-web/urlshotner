@@ -30,9 +30,12 @@ reanme example.env file
 
 php artisan key:generate  
 
+php artisan migrate
+
 php artisan migrate --seed
 
 php artisan optimize:clear
+
 
 php artisan serve
 or
